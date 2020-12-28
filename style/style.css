@@ -1,0 +1,38 @@
+body{
+    width: 652px;
+    height: 403px;
+    background-color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Courier New", Courier, monospace;
+}
+.logo,.main_pic{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.thick {
+    background-color: black;
+    height: 1px;
+    
+}
+nav ul{
+    text-align: center;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 5%;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover, a.on{
+    color: #D57DA9;
+    
+}
+p{
+    color: black;
+    text-align: center;
+}
