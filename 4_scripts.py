@@ -1,10 +1,3 @@
-"""
-Project for Week 4 of "Python Programming Essentials".
-Collection of functions to process dates.
-
-Be sure to read the project description page for further information
-about the expected behavior of the program.
-"""
 
 import datetime
 def days_in_month(year, month):
